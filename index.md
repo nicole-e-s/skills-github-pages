@@ -1,4 +1,4 @@
 ---
-# Nicole's First GitHub Page
+Nicole's First GitHub Page
 ---
 
