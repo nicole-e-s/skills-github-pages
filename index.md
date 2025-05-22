@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+# Nicole's First GitHub Page
 ---
 
